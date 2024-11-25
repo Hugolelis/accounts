@@ -19,7 +19,7 @@ Este projeto tem como objetivo simular um sistema bancário funcional diretament
 
 ### 1 - Clone o repositório
 ```bash
-git clone https://github.com/Hugolelis/documentation.git
+git clone https://github.com/Hugolelis/accounts.git
 ```
 ### 2 - Acesse o diretório do projeto:
 ```bash
