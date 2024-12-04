@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)  ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## docs_Repo
+## accounts
 
 ### Descrição: 
 Este projeto tem como objetivo simular um sistema bancário funcional diretamente no terminal, utilizando Node.js para gerenciar operações e dados. A aplicação foi desenvolvida com o intuito de servir como uma referência prática para estudos, promovendo boas práticas no desenvolvimento backend e gerenciamento de arquivos
