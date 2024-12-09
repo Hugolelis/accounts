@@ -28,10 +28,10 @@ cd accounts
 
 ### 3 - Instale as dependências:
 ```bash
-npm i
+npm install
 ```
 
-### 4 - Execução
+### 4 - Execução:
 ```bash
 npm start
 ```
