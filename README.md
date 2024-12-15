@@ -13,10 +13,7 @@ Este projeto tem como objetivo simular um sistema bancário funcional diretament
 5 - 📌Sair do programa
 
 ## Tecnologias Utilizadas: 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-
-## Como Executar o Projeto
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ### 1 - Clone o repositório
 ```bash
 git clone https://github.com/Hugolelis/accounts.git
