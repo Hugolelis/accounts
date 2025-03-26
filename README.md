@@ -1,34 +1,26 @@
-![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)  ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## accounts
+# 🏦 Accounts  
+### A simple banking system in the terminal  
 
-### Descrição: 
-Este projeto tem como objetivo simular um sistema bancário funcional diretamente no terminal, utilizando Node.js para gerenciar operações e dados. A aplicação foi desenvolvida com o intuito de servir como uma referência prática para estudos, promovendo boas práticas no desenvolvimento backend e gerenciamento de arquivos
+## 📌 Description  
+This project aims to simulate a functional banking system directly in the terminal, using Node.js to manage operations and data. The application was developed as a practical reference for studies, promoting best practices in backend development and file management.  
 
-### Funcionalidades
-1 - 📌Criar conta <br/>
-2 - 📌Depositar <br/>
-3 - 📌Sacar <br/>
-4 - 📌Checar saldo <br/>
-5 - 📌Sair do programa
+## 🚀 Features  
+1️⃣ **Create an account**  
+2️⃣ **Deposit funds**  
+3️⃣ **Withdraw funds**  
+4️⃣ **Check balance**  
+5️⃣ **Exit the program**  
 
-## Tecnologias Utilizadas: 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-### 1 - Clone o repositório
+## 🛠️ Technologies Used  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+
+## 📂 Installation and Usage  
+
+### 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/Hugolelis/accounts.git
-```
-### 2 - Acesse o diretório do projeto:
-```bash
-cd accounts
-```
 
-### 3 - Instale as dependências:
-```bash
-npm install
-```
-
-### 4 - Execução:
-```bash
 npm start
 ```
