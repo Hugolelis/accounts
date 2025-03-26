@@ -21,6 +21,12 @@ This project aims to simulate a functional banking system directly in the termin
 ### 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/Hugolelis/accounts.git
-
+```
+### 2️⃣ Install dependencies:
+```bash
+npm start
+```
+### 3️⃣ Start project:
+```bash
 npm start
 ```
