@@ -1,9 +1,8 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg) ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-# 🏦 Accounts  
-### A simple banking system in the terminal  
+## 🏦 Accounts   
 
-## 📌 Description  
+# Description  
 This project aims to simulate a functional banking system directly in the terminal, using Node.js to manage operations and data. The application was developed as a practical reference for studies, promoting best practices in backend development and file management.  
 
 ---
