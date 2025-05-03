@@ -6,6 +6,8 @@
 ## 📌 Description  
 This project aims to simulate a functional banking system directly in the terminal, using Node.js to manage operations and data. The application was developed as a practical reference for studies, promoting best practices in backend development and file management.  
 
+---
+
 ## 🚀 Features  
 1️⃣ **Create an account**  
 2️⃣ **Deposit funds**  
@@ -13,8 +15,12 @@ This project aims to simulate a functional banking system directly in the termin
 4️⃣ **Check balance**  
 5️⃣ **Exit the program**  
 
+---
+
 ## 🛠️ Technologies Used  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+
+---
 
 ## 📂 Installation and Usage  
 
